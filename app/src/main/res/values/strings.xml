@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mckenna.colin.hw5</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit">Edit</string>
+    <string name="appwidget_text">Items Due: </string>
+    <string name="add_widget">Add widget</string>
+</resources>
